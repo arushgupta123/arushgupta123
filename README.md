@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arushgupta123
-- 👀 I’m interested in Making games
+- 👀 I’m interested in Making useful websites
 - 🌱 I’m currently learning Advanced JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
