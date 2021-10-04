@@ -9,6 +9,8 @@ arushgupta123/arushgupta123 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arushgupta123&theme=radical)
+
 Account age: **{{ ACCOUNT_AGE }}** years
 
 Pushed **{{ COMMITS }}** commits
