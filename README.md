@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @arushgupta123
-- 👀 I’m interested in Making useful websites
-- 🌱 I’m currently learning Advanced JS
+- 👀 I’m interested in Making useful websites, and learning new things
+- 🌱 I’m currently learning Phaser JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I want to learn AI, Robotics, ML, TensorFlow, Phaser, Game Development and related
 
 <!---
 arushgupta123/arushgupta123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
