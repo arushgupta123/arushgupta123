@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arushgupta123
 - 👀 I’m interested in Making useful websites, and learning new things and want to learn about apps
-- 🌱 I’m currently learning Phaser JS
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 I want to learn AI, Robotics, ML, TensorFlow, Phaser, Game Development and related
 
