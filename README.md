@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arushgupta123
-- 👀 I’m interested in Making useful websites and Mongodb for nodejs
-- 🌱 I’m currently learning mongoose for nodejs
+- 👀 I’m interested in ML in js
+- 🌱 I’m currently learning ml5 js
 - 💞️ I’m looking to collaborate on ...
 - 📫 I want to learn more
 
