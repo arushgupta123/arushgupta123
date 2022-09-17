@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML in js
 - 🌱 I’m currently learning ml5 js
 - 💞️ I’m looking to collaborate on ...
-- 📫 I want to learn more
+- 📫 I want to learn..
 
 <!---
 arushgupta123/arushgupta123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
