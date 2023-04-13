@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arushgupta123&theme=radical)
 
-Made 1 private repository
+Made 3 private repositories :)
 
