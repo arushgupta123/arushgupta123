@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arushgupta123
-- 👀 I’m interested in ML in js
-- 🌱 I’m currently learning ml5 js
+- 👀 I’m interested in Advanced Python and Java
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 I want to learn..
 
